@@ -20,7 +20,7 @@
     "graphql-request": "^1.8.2",
     "image-size": "^0.7.4",
     "image-to-ascii": "^3.0.12",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "lru-cache": "^5.1.1",
     "mime-types": "^2.1.24",
     "node-fetch": "^2.6.0",
